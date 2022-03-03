@@ -15,5 +15,6 @@
         <module>gulimail-master</module>
         <module>gulimail-order</module>
         <module>gulimail-ware</module>
+        <module>renren-fast</module>
     </modules>
 </project>
